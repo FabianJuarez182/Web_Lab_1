@@ -153,3 +153,26 @@ text? May the command line live forever
 ##################################################################
 ##################################################################
 ```
+### Pregunta 12
+***(20 puntos) Copien el titulo, la fecha de publicación y el primer parrafo de dos de los siguientes rfc históricos:***
+____________________________________
+```
+-	rfc 318
+Título: Telnet Protocol
+Fecha de publicación: April 3, 1972
+Primer párrafo del artículo: At the October 1971 Network Working Group Meeting, I promised to
+   promptly produce a document which clearly and succinctly specified
+   and explained the Official Telnet Protocol.  This document fails to
+   meet any part of that promise.  This document was not produced
+   promptly.  This document is neither clear nor succinct.  There is NO
+   Official Telnet Protocol.
+-	rfc 1034
+Título: DOMAIN NAMES - CONCEPTS AND FACILITIES
+Fecha de publicación: November 1987
+Primer párrafo del artículo: 
+1. STATUS OF THIS MEMO
+     This RFC is an introduction to the Domain Name System (DNS), and omits
+     many details which can be found in a companion RFC, "Domain Names -
+     Implementation and Specification" [RFC-1035].  That RFC assumes that the
+     reader is familiar with the concepts discussed in this memo.
+```
