@@ -160,7 +160,8 @@ ____________________________________
 -	rfc 318
 Título: Telnet Protocol
 Fecha de publicación: April 3, 1972
-Primer párrafo del artículo: At the October 1971 Network Working Group Meeting, I promised to
+Primer párrafo del artículo: 
+At the October 1971 Network Working Group Meeting, I promised to
    promptly produce a document which clearly and succinctly specified
    and explained the Official Telnet Protocol.  This document fails to
    meet any part of that promise.  This document was not produced
@@ -175,4 +176,10 @@ Primer párrafo del artículo:
      many details which can be found in a companion RFC, "Domain Names -
      Implementation and Specification" [RFC-1035].  That RFC assumes that the
      reader is familiar with the concepts discussed in this memo.
+```
+### Pregunta 15
+***(5 puntos) ¿Cuanto tiempo lleva encendido el server de telehack.com?***
+____________________________________
+```
+LLeva encendido 12.9 años (Sysgen was 12.9y ago at 2010-Mar-07  22:26:00)
 ```
