@@ -183,3 +183,31 @@ ____________________________________
 ```
 LLeva encendido 12.9 años (Sysgen was 12.9y ago at 2010-Mar-07  22:26:00)
 ```
+### Pregunta 16
+***(10 puntos) Busquen en usenet y escojan algún post interesante***
+____________________________________
+```
+Path: utzoo!utgpu!news-server.csri.toronto.edu!rpi!zaphod.mps.ohio-state.edu!caen!spool.mu.edu!agate!ucbvax!GTE.COM!diederich_r_%ncsd.dnet
+From: diederich_r_%ncsd.dnet@GTE.COM (Ray Diederich, 301-869-8400)
+Subject: Ada vs C++
+Date: 27 Jun 91 17:05:16 GMT
+Newsgroups: comp.lang.ada
+Organization: The Internet
+
+From _Defense_&_Aerospace_Electronics_, Vol. 1, Num. 1 (June 24, 1991), a
+quote from Lloyd Mosemann, deputy assistant secretary of the Air Force,
+regarding the yet to be released case studies of Ada versus C++:
+
+"Without Exception Ada won out in all categories of study," said Mosemann.
+He said Ada's cost savings were 35% over C++'s, and maintenance savings
+topped 70%.
+
+(Reprinted without permission.)
+
+Ray Diederich
+**********
+My employer would prefer that I had no opinions to express, especially any
+that may have been expressed here.
+**********
+=!=__XXEND__=!=
+```
