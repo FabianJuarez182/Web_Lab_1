@@ -13,7 +13,7 @@ ____________________________________
 ```
 
 ### Pregunta 4
-***¿Cómo pide auxilio una vaca paranoica?***
+***(10 puntos) ¿Cómo pide auxilio una vaca paranoica?***
 - Deben asegurarse que la vaca sea paranóica
 ____________________________________
 
@@ -28,7 +28,7 @@ ____________________________________
 ```
 
 ### Pregunta 5
- ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"
+***(10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?" ***
 - Ella da múltiples respuestas, escojan una. Pueden poner su conversación completa con ella si quieren.
 ____________________________________
 ```
@@ -57,4 +57,10 @@ WHAT ARE YOUR LONG TERM PLANS?
 Nevermind, good bye
 
 HOPE WE CAN TALK AGAIN SOMETIME.
+```
+### Pregunta 6
+***(5 puntos) Coloquen un ejemplo de un fnord***
+____________________________________
+```
+Flaming Carrot must take the shiftless phased plasma rifle from Hong Kong.
 ```
