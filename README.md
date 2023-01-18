@@ -220,3 +220,11 @@ My father taught me three things:
         (2) Never try to draw to an inside straight.
         (3) Never discuss business with anyone who refuses to give his name.
 ```
+### Pregunta 19
+***(10 puntos) En star wars (ascii) ¿qué caracter se usa para formar el pelo de Leia?***
+____________________________________
+```
+Los caracteres que se utilizan para formar su pelo son: “,” , “=” y “@”
+,===
+@   @
+```
