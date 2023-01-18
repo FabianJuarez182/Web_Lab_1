@@ -28,7 +28,7 @@ ____________________________________
 ```
 
 ### Pregunta 5
-***(10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?" ***
+***(10 puntos) ¿Que respuesta les dio la psicoterapeuta a la pregunta "what is life?"***
 - Ella da múltiples respuestas, escojan una. Pueden poner su conversación completa con ella si quieren.
 ____________________________________
 ```
@@ -65,7 +65,7 @@ ____________________________________
 Flaming Carrot must take the shiftless phased plasma rifle from Hong Kong.
 ```
 ### Pregunta 7
-***(5 puntos) ¿Cuál es la ubicación de su ip?¿Y su ip pública? ***
+***(5 puntos) ¿Cuál es la ubicación de su ip? ¿Y su ip pública?***
 ____________________________________
 ```
 186.151.24.28
@@ -80,3 +80,9 @@ Guatemala
   Time Zone            America/Guatemala (UTC-06:00)
   Latitude, Longitude  14.6343, -90.5155 (+/- 10 km)
   ```
+### Pregunta 9
+***(10 puntos) Traduzcan la siguiente frase a clave morse: ye shall be as gods***
+____________________________________
+```
+-.-- .  ... .... .- .-.. .-..  -... .  .- ...  --. --- -.. ...
+```
