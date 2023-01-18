@@ -211,3 +211,12 @@ that may have been expressed here.
 **********
 =!=__XXEND__=!=
 ```
+### Pregunta 18
+***(5 puntos) ¿Cuál fue el mejor chiste que les contó el sitio?***
+____________________________________
+```
+My father taught me three things:
+        (1) Never mix whiskey with anything but water.
+        (2) Never try to draw to an inside straight.
+        (3) Never discuss business with anyone who refuses to give his name.
+```
