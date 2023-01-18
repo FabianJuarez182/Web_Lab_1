@@ -64,3 +64,19 @@ ____________________________________
 ```
 Flaming Carrot must take the shiftless phased plasma rifle from Hong Kong.
 ```
+### Pregunta 7
+***(5 puntos) ¿Cuál es la ubicación de su ip?¿Y su ip pública? ***
+____________________________________
+```
+186.151.24.28
+Guatemala
+
+  Autonomous System    AS14754 Telgua
+  Continent            North America
+  Country              Guatemala
+  Subdivision          Guatemala Department
+  City                 Guatemala City
+  Postal Code          01016
+  Time Zone            America/Guatemala (UTC-06:00)
+  Latitude, Longitude  14.6343, -90.5155 (+/- 10 km)
+  ```
